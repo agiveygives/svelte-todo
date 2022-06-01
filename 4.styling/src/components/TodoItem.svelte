@@ -55,3 +55,21 @@
     </svg>
   </button>
 </div>
+
+<style>
+  div {
+    padding-top: 10px;
+  }
+  button {
+    background-color: transparent;
+    border: none;
+    color: gray;
+  }
+  button:hover {
+    cursor: pointer;
+    color: red;
+  }
+  svg {
+    fill: currentColor;
+  }
+</style>
